@@ -22,3 +22,7 @@ while True  (Frequency.tick)
 
 ## Demostración
 <img width="433" height="746" alt="cobertura_61" src="https://github.com/user-attachments/assets/8ea463dc-9344-40ff-8bc3-01296e3ff614" />
+
+
+## Vídeo 
+https://youtube.com/shorts/i-5-QgnGcnc?is=zz7lSmJcODmh7LR3
