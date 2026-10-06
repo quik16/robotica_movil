@@ -19,3 +19,6 @@ while True  (Frequency.tick)
 └── GIRAR        v = 0 · w = ±1 rad/s
     └── gira el ángulo o salta el timeout → AVANZAR
 ```
+
+## Demostración
+<img width="433" height="746" alt="cobertura_61" src="https://github.com/user-attachments/assets/8ea463dc-9344-40ff-8bc3-01296e3ff614" />
