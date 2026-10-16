@@ -39,3 +39,4 @@ while True  (Frequency.tick)
 | Nürburgring | 107 s |
 
 [Vídeo: [enlace]](https://youtu.be/Md-GcF8-iMc?si=zeAQgFx_jm-REEiE)
+https://youtu.be/UnYlETl4MsU?si=oeK0wRKCQ21pWF2B
