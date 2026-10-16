@@ -36,6 +36,6 @@ while True  (Frequency.tick)
 | Circuito | Tiempo por vuelta |
 |---|---|
 | Simple Circuit | 70 s |
-| [otro circuito] | [X] s |
+| Nürburgring | 107 s |
 
-Vídeo: [enlace]
+[Vídeo: [enlace]](https://youtu.be/Md-GcF8-iMc?si=zeAQgFx_jm-REEiE)
