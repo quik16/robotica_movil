@@ -37,4 +37,4 @@ while True  (Frequency.tick)
 
 ## Vídeo
 
-[enlace]
+https://youtu.be/zMB2UllvvHM?si=1IHk3pbUZ_46QUaU
