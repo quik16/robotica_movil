@@ -6,3 +6,4 @@ Memorias de las prácticas de Robótica Móvil (URJC, 4º). Sin código.
 |---|---|
 | P1 · Aspiradora básica | [memoria](p1_aspiradora/memoria.md) |
 | P2 · Sigue líneas (PID) | [memoria](p2_sigue_lineas/memoria.md) |
+| P3 · Navegación local VFF | [memoria](p3_vff/memoria.md) |
