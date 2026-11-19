@@ -50,4 +50,4 @@ while True  (Frequency.tick)
 | Destino 2 | [X] s |
 | Destino 3 | [X] s |
 
-Vídeo: [enlace]
+Vídeo: https://youtu.be/pWDEwkvZoKU
