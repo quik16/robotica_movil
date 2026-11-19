@@ -42,12 +42,6 @@ while True  (Frequency.tick)
 | `TOLERANCIA_DESTINO` | 3 m |
 | `FRECUENCIA` | 20 Hz |
 
-## Demostración
+## Vídeo
 
-| Trayecto | Tiempo |
-|---|---|
-| Destino 1 | [X] s |
-| Destino 2 | [X] s |
-| Destino 3 | [X] s |
-
-Vídeo: https://youtu.be/pWDEwkvZoKU
+https://youtu.be/pWDEwkvZoKU
